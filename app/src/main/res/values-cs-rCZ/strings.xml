@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulačka</string>
+    <string name="first_number_view">První číslo</string>
+    <string name="second_number_view">Druhý číslo</string>
+    <string name="hint_field">Zde napiš číslo</string>
+    <string name="result_view">Výsledek</string>
+    <string name="calculate_button">Vypočítat</string>
+    <string name="radio_addition">Sčítání</string>
+    <string name="radio_subtraction">Odčítání</string>
+    <string name="radio_multiplication">Násobení</string>
+    <string name="radio_division">Dělení</string>
+    <string name="both_fields">Obě pole musí být vyplněná!</string>
+    <string name="division_by_zero">Nelze dělit nulou!</string>
+    <string name="choose_option">Musíte si vybrat jednu z možností!</string>
+    <string name="english_language">English</string>
+    <string name="czech_language">Čeština</string>
+</resources>

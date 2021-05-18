@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="first_number_view">First number</string>
+    <string name="second_number_view">Second number</string>
+    <string name="hint_field">Here write a number</string>
+    <string name="result_view">Result</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="radio_addition">Addition</string>
+    <string name="radio_subtraction">Subtraction</string>
+    <string name="radio_multiplication">Multiplication</string>
+    <string name="radio_division">Division</string>
+    <string name="both_fields">Both fields must be filled out!</string>
+    <string name="division_by_zero">You can not divide with a zero!</string>
+    <string name="choose_option">You have to choose one of the options!</string>
+    <string name="english_language">English</string>
+    <string name="czech_language">Čeština</string>
+</resources>
